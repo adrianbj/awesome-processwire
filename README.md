@@ -1,4 +1,4 @@
-# awesome-processwire
+# Awesome ProcessWire
 A curated list of ProcessWire awesomeness
 
 To follow what seems to be a growing trend on Gitub, here will be a list of all awesome things for [ProcessWire](https://processwire.com).
@@ -7,11 +7,11 @@ I am hoping this will be built by PRs from other users - maybe this seems lazy, 
 
 Feel free to add other categories as well.
 
-** Tutorials
+## Tutorials
 
-** Modules
+## Modules
 
-** Resources
+## Resources
 
-** Cool websites
+## Cool websites
 
